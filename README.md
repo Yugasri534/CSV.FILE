@@ -21,6 +21,4 @@ Grouping the data by product and date, and calculating the total revenue for eac
 Plotting Insights: The code creates two plots:
 A bar chart showing revenue by product.
 A line plot showing revenue over time.
-By combining these two codes, you can generate a sample sales dataset, analyze it, and gain insights into revenue by product and over time.
-
-CSV-files/README.md at main · soumyarach/CSV-files
+By combining these two codes, you can generate a sample sales dataset, analyze it, and gain insights into revenue by product and over .
